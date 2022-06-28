@@ -1,0 +1,14 @@
+ql select n.dnorPattern as HuntPilot, d.name as HuntList, d.description,
+rl.selectionorder, lg.name as LineGroup from device as d inner join routelist
+as rl on rl.fkdevice = d.pkid inner join devicenumplanmap as dmap on
+dmap.fkdevice = d.pkid inner join NumPlan as n on n.pkid = dmap.fknumplan inner
+join linegroup lg on rl.fklinegroup = lg.pkid order by n.dnorpattern
+
+
+
+run sql select lg.name as LineGroup, n.dnorpattern, dhd.hlog, n.cfnadestination
+as overflow from linegroup as lg inner join linegroupnumplanmap as lgmap on
+lgmap.fklinegroup=lg.pkid inner join  numplan as n on lgmap.fknumplan = n.pkid
+inner join devicenumplanmap as dmap on dmap.fknumplan=n.pkid inner join  device
+as d on dmap.fkdevice=d.pkid inner join devicehlogdynamic as dhd on
+dhd.fkdevice=d.pkid order by lg.name
